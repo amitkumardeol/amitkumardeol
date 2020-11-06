@@ -9,13 +9,12 @@ Skills: CRM / Adobe Experience Cloud/ JS / Python/ Tensorflow
 
 Most used languages across my projects:
 
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B164.9%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B111.4%25)
+
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B175.9%25)
 ![Vue](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232c3e50&message=Vue%EF%B8%B16.7%25)
-![Julia](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23a270ba&message=Julia%EF%B8%B15.6%25)
-![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B14.1%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B12.3%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12.2%25)
+![PYTHON](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=PYTHON%EF%B8%B17.2%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.4%25)
 
 
@@ -52,7 +51,7 @@ Most used languages across my projects:
 ### Languages and Tools:
 <p align='center'>
 	<img align="left" alt="Amazon AWS" height="30px" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-	<img align="left" alt="Java Script" height="30px" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" />
+	<img align="left" alt="JavaScript" height="30px" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" />
 	<img align="left" alt="Node Js" height="30px"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 	<img align="left" alt="Python" height="30px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
 	<img align="left" alt="Java" height="30px" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -68,14 +67,15 @@ Most used languages across my projects:
 
 </p>
 
+<p align='center'>
+<br/>
+<br/>
+</p>
 
-<br />
-<br />
 
-
-
-  <img align="left" alt="amitkumardeol's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amitkumardeol&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-
+<p align='center'>
+<img align="left" height="250px" alt="amitkumardeol's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amitkumardeol&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+</p>
 
 
 [website]: https://marketingcloudblog.com
