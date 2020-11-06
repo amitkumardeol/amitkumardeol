@@ -42,10 +42,11 @@ Most used languages across my projects:
 ### Connect with me:
 
 [<img align="left" alt="MarketingCloudBlog.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="deolamit | Twitter" width="230px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="deolamit | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="amitkumardeol | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
+<br />
 <br />
 
 ### Languages and Tools:
