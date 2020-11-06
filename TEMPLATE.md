@@ -6,6 +6,9 @@ I am working as a Head of Marketing(Adobe) Technology at PhotoBox and a Trustee 
 
 Skills: CRM / Adobe Experience Cloud/ JS / Python/ Tensorflow
 
+Joined Github **{{ ACCOUNT_AGE }}** years ago.
+
+Since then I pushed **{{ COMMITS }}** commits,  submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **6** personal projects and contributed to **{{ REPOSITORIES }}** repositories.
 
 Most used languages across my projects:
 
