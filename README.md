@@ -18,7 +18,6 @@ Most used languages across my projects:
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12.2%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.4%25)
 
-<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
 
 <p align='center'>
   
@@ -74,7 +73,7 @@ Most used languages across my projects:
 
 
 
-  <img align="left" alt="amitkumardeol's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amitkumardeol&show_icons=true&hide_border=true" />
+  <img align="left" alt="amitkumardeol's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amitkumardeol&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
 
 
