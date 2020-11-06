@@ -7,6 +7,17 @@ I am working as a Head of Marketing(Adobe) Technology at PhotoBox and a Trustee 
 Skills: CRM / Adobe Experience Cloud/ JS / Python/ Tensorflow
 
 
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/amitkumardeol/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famitkumardeol&screen_name=deolamit">
+    <img src="https://img.shields.io/twitter/follow/deolamit?color=1DA1F2&logo=twitter&style=for-the-badge" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
 Most used languages across my projects:
 
 
@@ -18,16 +29,6 @@ Most used languages across my projects:
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.4%25)
 
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/amitkumardeol/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famitkumardeol&screen_name=deolamit">
-    <img src="https://img.shields.io/twitter/follow/deolamit?color=1DA1F2&logo=twitter&style=for-the-badge" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
 
 
 
