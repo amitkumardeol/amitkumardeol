@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Amit
 #### I'm a Husband, Developer, and ML enthusiast!!
-![I'm a Husband, Developer, and ML enthusiast!!](https://media-exp1.licdn.com/dms/image/C4E16AQHfco41pJnPqQ/profile-displaybackgroundimage-shrink_200_800/0?e=1609977600&v=beta&t=0MoJ-r0owCZp4jAwcasOw8pQLM0fwWR4z85Gmco8suo)
+![I'm a Husband, Developer, and ML enthusiast!!]
 
 I am working as a Head of Marketing(Adobe) Technology at PhotoBox and a Trustee at Challenge Child Poverty charity. His primary focus is customer retention, data analytics, marketing automation and optimising marketing operations and execution.
 
